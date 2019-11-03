@@ -1,0 +1,27 @@
+{
+  "name": "Static_Node.js_and_Express-Site",
+  "version": "1.0.0",
+  "description": "In this project, I'll create a gorgeous portfolio site to showcase the great projects I've built. The site will contain a modern landing page, an about page where I'll have a chance to share contact info, practice my elevator pitch and talk a little about myself, and a series of project pages to show off and detail at least my  first five projects from this Techdegree.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlackDelga/Static_Node.js_and_Express-Site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlackDelga/Static_Node.js_and_Express-Site/issues"
+  },
+  "homepage": "https://github.com/BlackDelga/Static_Node.js_and_Express-Site#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.3",
+    "pug": "^2.0.4"
+  }
+}
