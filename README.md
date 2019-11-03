@@ -14,3 +14,6 @@ Set up routes to handle requests
 Set up the middleware to utilize static files like CSS
 Handle errors
 Set up a server to serve the project.
+
+If download my repo please run npm install to install all dependices and them run npm start.
+Happy Coding :)
