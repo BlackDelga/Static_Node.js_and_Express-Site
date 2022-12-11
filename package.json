@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/BlackDelga/Static_Node.js_and_Express-Site#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "nodemon": "^1.19.3",
     "pug": "^2.0.4"
   }
